@@ -1,16 +1,20 @@
-## Hi there 👋
+## Webpie - Инженер по безопасности
 
-<!--
-**webp1e/webp1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Время                | Язык/среда  | Знания                                    | библиотеки/программы/дистрибутивы |
+| 1 год                | Rustlang    | Базовые знания с углублением в библиотеки | tokio, reqwest, tcpstream         |
+| 2 года               | Python      | Базовые знания с углублением в библиотеки | flask, ipconnect, aiogram         |
+| 2 года и 8-9 месяцев | Linux       | Знания среднего уровня                    | debian, arch, mint                |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Умение работать с инструментами такими как
+burp suite
+nmap
+wireshark
+bettercap
+metasploit
+gdb
+wpscan
+sqlmap
+nikto
+ffuf(так же мною ранее была написана собственная базовая версия ffuf)
+whatweb
+nuclei
