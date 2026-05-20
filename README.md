@@ -1,4 +1,4 @@
-# Webpie - Инженер по безопасности, <a href="https://un-sec.github.io" target="_blank" rel="noopener noreferrer">команда un-sec</a>
+# Webpie - Инженер по веб безопасности, <a href="https://un-sec.github.io" target="_blank" rel="noopener noreferrer">команда un-sec</a>
 
 | Время | Язык/среда | Знания | Библиотеки/программы/дистрибутивы |
 |-------|------------|--------|-----------------------------------|
