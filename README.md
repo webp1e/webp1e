@@ -24,7 +24,6 @@
 - whatweb
 - nuclei
 - wifite
-- 
 
 ## Области
 - OSINT (Open Source INTelligence)
