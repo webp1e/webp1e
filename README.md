@@ -1,4 +1,7 @@
-# Webpie - Инженер по веб безопасности, <a href="https://un-sec.github.io" target="_blank" rel="noopener noreferrer">команда un-sec</a>
+# Webpie - Инженер по веб безопасности
+<a href="https://un-sec.github.io" target="_blank">
+<img src="https://img.shields.io/badge/un--sec-team-00ff99?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+</a>
 
 | Время | Язык/среда | Знания | Библиотеки/программы/дистрибутивы |
 |-------|------------|--------|-----------------------------------|
