@@ -3,6 +3,8 @@
 <img src="https://img.shields.io/badge/un--sec-team-00ff99?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=SECURITY+ENGINEER;PENTEST+%7C+OSINT+%7C+INFRA-AUDIT;NETWORK+EXPLOITATION+SPECIALIST;UN-SEC+MEMBER" />
+
 | Время | Язык/среда | Знания | Библиотеки/программы/дистрибутивы |
 |-------|------------|--------|-----------------------------------|
 | 1 год | Rustlang | Базовые знания с углублением в библиотеки | tokio, reqwest, tcpstream |
