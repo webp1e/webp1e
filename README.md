@@ -1,4 +1,4 @@
-# Webpie - Инженер по веб безопасности
+# Webpie - Инженер по веб безопасности(менеджер и соавтор команды unsecured)
 <a href="https://un-sec.github.io" target="_blank">
 <img src="https://img.shields.io/badge/un--sec-team-00ff99?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
