@@ -29,6 +29,9 @@
 - whatweb
 - nuclei
 - wifite
+- jd-gui
+- strings
+- dig
 
 ## Области
 - OSINT (Open Source INTelligence)
