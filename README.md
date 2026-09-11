@@ -83,6 +83,8 @@
 
 - webrat-decompilation-deobfuscation - прорыв в изучении webrat, скорее всего до данного места не доходил ни один человек...
 
+- rps420rat-decompile - декомпилированная версия rps420 rat с сайта blackhat russia
+
 ## Проекты
 - num2sound       - числа в звук
   
