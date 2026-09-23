@@ -85,6 +85,8 @@
 
 - rps420rat-decompile - декомпилированная версия rps420 rat с сайта blackhat russia
 
+- catcrypt-v1-dpr-deobf - разбор шифрации locker вируса catcrypt v1
+
 ## Проекты
 - num2sound       - числа в звук
   
